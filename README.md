@@ -22,15 +22,16 @@ This dashboard provides a clear view of HR metrics across recruitment, employee 
 - **DAX** for calculated measures
 - **Power Query** for data cleaning
 
-## 🚀 How to Run
-1. Download `HR_Analytics_Dashboard.pbix`.
-2. Open it with Power BI Desktop.
-3. In View Mode, use `Ctrl + Click` on navigation buttons to switch between pages.
-4. Connect your own data source in Power Query if needed.
+## 📸 Dashboard Preview
 
-## 📌 Notes
-- Screenshots are included to preview the dashboard without opening the PBIX file.
-- Data used in the project is sample/dummy data for demonstration purposes.
+### Page 1 - Overview
+![Page 1](Page1_Screenshot.png)
+
+### Page 2 - Employee Analysis  
+![Page 2](Page2_Screenshot.png)
+
+### Page 3 - Recruitment & Attrition
+![Page 3](Page3_Screenshot.png)
 
 ## 👩‍💻 Author
 Shrouk Soliyman 
