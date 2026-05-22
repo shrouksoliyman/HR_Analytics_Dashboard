@@ -33,5 +33,5 @@ This dashboard provides a clear view of HR metrics across recruitment, employee 
 - Data used in the project is sample/dummy data for demonstration purposes.
 
 ## 👩‍💻 Author
-Shorouk [Your Last Name]  
+Shrouk Soliyman 
 HR Analytics & Data Visualization Project
